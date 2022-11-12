@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914488078191",
+    "project_id": "money-transfer-app-bc5ce",
+    "storage_bucket": "money-transfer-app-bc5ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914488078191:android:565494a4283767c75f429a",
+        "android_client_info": {
+          "package_name": "money.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914488078191-0vep52hioo6pk93qoq2iikk2hqtdhs6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySSzwU20KGu1Y0_oQlwImGu9tffQb1QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914488078191-0vep52hioo6pk93qoq2iikk2hqtdhs6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
